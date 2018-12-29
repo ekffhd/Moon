@@ -2,7 +2,7 @@
 remote_theme :      TaylanTatli/Moon
 # Site
 title:              Moon
-bio:                'one column jekyll theme.'
+bio:                'programming'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
