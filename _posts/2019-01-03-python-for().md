@@ -34,7 +34,7 @@ for fruit in fruits[1:3]:
 
 {% endhighlight %}
 
-> ## Result
+> ### Result
 > watermelon  
 > orange  
 > strawberry  
