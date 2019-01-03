@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Python 3 for"
+title:  "Python | for Loop"
 date:   2019-01-03
-excerpt: "How to use 'for'"
+excerpt: "How to use 'for' loop"
 tag: [python]
 comments: true
 ---
@@ -19,10 +19,11 @@ for fruit in fruits:
 
 {% endhighlight %}
 
-* apple
-* orange
-* strawberry
-* watermelon
+> ### Result
+> apple  
+> orange  
+> strawberry  
+> watermelon  
 
 ---
 
@@ -33,9 +34,10 @@ for fruit in fruits[1:3]:
 
 {% endhighlight %}
 
-> watermelon
-> orange
-> strawberry
+> ## Result
+> watermelon  
+> orange  
+> strawberry  
 
 ---
 
@@ -50,9 +52,10 @@ for fruit in fruits:
 
 {% endhighlight %}
 
-* apple
-* orange
-* > strawberry - favorite
+> ### Result
+> apple  
+> orange  
+> strawberry - favorite  
 
 
 
