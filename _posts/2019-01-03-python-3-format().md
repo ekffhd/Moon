@@ -6,4 +6,5 @@ tags: [python]
 comments: true
 ---
 
-hi
+#python format()
+
