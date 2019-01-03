@@ -1,8 +1,9 @@
 ---
-|layout|title|date|excerpt|tags|comments|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|post|python 3 format()|2019-01-03|[python]|true|
+layout: post
+title: "Python 3 format()"
+date: 2019-01-03
+tags: [python]
+comments: true
 ---
-
 
 hi
