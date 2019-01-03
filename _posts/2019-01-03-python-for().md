@@ -7,9 +7,6 @@ tag: [python]
 comments: true
 ---
 
-# python for
-
-
 > fruits = ['apple', 'orange', 'strawberry', 'watermelon']
 
 {% highlight python %}
