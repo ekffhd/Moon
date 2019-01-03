@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python 3 format()"
+title: "Python | format() function"
 date: 2019-01-03
 tags: [python]
 excerpt: How to use format()
