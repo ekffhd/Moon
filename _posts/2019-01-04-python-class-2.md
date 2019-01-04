@@ -69,7 +69,7 @@ print(Planet.spin('a very low speed'))
 ## 코드 설명
 
 > ### 요약  
-> class ooo : 객체를 색성하지 않아도 사용할 수 있다.
+> class ooo : 객체를 색성하지 않아도 사용할 수 있다.  
 > instance ooo : 반드시 객체를 생성해야 사용할 수 있다.
   
   
