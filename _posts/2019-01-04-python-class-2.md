@@ -64,15 +64,15 @@ print(Planet.spin('a very low speed'))
 > All planets are round  
 > The planet spins and spins at a very high speed  
 > The planet spins and spins at a very low speed  
-
+  
+  
 ## 코드 설명
 
 > ### 요약  
 > class ooo : 객체를 색성하지 않아도 사용할 수 있다.
 > instance ooo : 반드시 객체를 생성해야 사용할 수 있다.
-
-
-
+  
+  
 * __class attribute (클래스 속성)__  
 클래스 객체를 생성하지 않아도 접근할 수 있다.
 
@@ -88,9 +88,8 @@ print(X.shpae)
 print(Planet.shape)
 
 {% endhighlight %}
-
-
-
+  
+  
 * __instance attribute (인스턴스 속성)__  
 객체에서만 접근이 가능하다.
 
@@ -103,8 +102,8 @@ print(X.name)
 # print(Planet.name) << wrong expression
 
 {% endhighlight %}
-
-
+  
+  
 * __class method__ & __static method__  
 클래스 객체를 생성하지 않아도 접근할 수 있다.
 
@@ -125,6 +124,6 @@ print(X.spin('a very high speed'))
 print(Planet.spin('a very low speed'))
 
 {% endhighlight %}
-
+  
 > class method 와 static method의 차이는 추후의 포스트로 올릴 예정
 
