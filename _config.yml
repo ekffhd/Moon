@@ -2,7 +2,7 @@
 remote_theme :      TaylanTatli/Moon
 # Site
 title:              Shelly
-bio:                'Wellcome'
+bio:                'Welcome'
 description:        "To study programming"
 reading_time:       true
 words_per_minute:   200
