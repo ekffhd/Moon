@@ -72,7 +72,8 @@ print(Planet.spin('a very low speed'))
 > instance ooo : 반드시 객체를 생성해야 사용할 수 있다.
 
 
-* __class attribute (클래스 속성)__
+
+* __class attribute (클래스 속성)__  
 클래스 객체를 생성하지 않아도 접근할 수 있다.
 
 {% highlight python %}
@@ -89,7 +90,8 @@ print(Planet.shape)
 {% endhighlight %}
 
 
-* __instance attribute (인스턴스 속성)__
+
+* __instance attribute (인스턴스 속성)__  
 객체에서만 접근이 가능하다.
 
 {% highlight python %}
@@ -103,7 +105,7 @@ print(X.name)
 {% endhighlight %}
 
 
-* __class method__ & __static method__
+* __class method__ & __static method__  
 클래스 객체를 생성하지 않아도 접근할 수 있다.
 
 {% highlight python %}
