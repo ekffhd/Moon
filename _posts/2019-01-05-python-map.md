@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Python | map() function
 date: 2019-01-05
 excerpt: "How to use map()"
