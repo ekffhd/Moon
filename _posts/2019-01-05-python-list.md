@@ -38,12 +38,12 @@ print(double_prizes2)
 (1)   
 {% highlight python %}
 for prize in prizes:  
-    double_prizes1.append(prize*2)  
+    double_prizes.append(prize*2)  
 {% endhighlight %}
 
 (2)  
 {% highlight python %}
-double_prizes2 = [prize*2 for prize in prizes] 
+double_prizes = [prize*2 for prize in prizes] 
 {% endhighlight %}
 
 위의 두 구문은 같은 의미이다.  
