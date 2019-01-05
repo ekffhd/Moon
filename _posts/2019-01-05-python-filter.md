@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Python | filter() function
+title: "Python | filter() function"
 date: 2019-01-05
-excerpt: How to use filter()
+excerpt: "How to use filter()"
 tag: [python]
 comments: true
 ---
