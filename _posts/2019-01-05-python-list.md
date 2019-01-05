@@ -7,7 +7,7 @@ tag: [python]
 comments: true
 ---
 
-''' python
+{% highlight python %}
 
 prizes = [5, 10, 50, 100, 1000]
 
@@ -27,7 +27,7 @@ double_prizes2 = [prize*2 for prize in prizes]
 
 print(double_prizes2)
 
-'''
+{% endhighlight %}
 
 > ### Result  
 > [10, 20, 100, 200, 2000]  
@@ -36,20 +36,21 @@ print(double_prizes2)
 ## 코드 설명
 
 (1)   
-''' python
+{% highlight python %}
 for prize in prizes:  
     double_prizes1.append(prize*2)  
-'''
+{% endhighlight %}
 
 (2)  
-''' python
+{% highlight python %}
 double_prizes2 = [prize*2 for prize in prizes] 
-'''
+{% endhighlight %}
+
 위의 두 구문은 같은 의미이다.  
   
   
   
-''' python
+{% highlight python %}
 
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
@@ -68,7 +69,7 @@ squared_even_nums2 = [num ** 2 for num in nums if(num ** 2)%2 == 0]
 
 print(squared_even_nums2)
 
-'''
+{% endhighlight %}
 
 > ### Result  
 > [4, 16, 36, 64, 100]  
@@ -78,16 +79,17 @@ print(squared_even_nums2)
 
 (1)
 
-''' python
+{% highlight python %}
 for num in nums:
     if(num ** 2) % 2 == 0:
         squared_even_nums.append(num ** 2)
-'''
+{% endhighlight %}
 
 (2)
-''' python
+
+{% highlight python %}
 squared_even_nums = [num ** 2 for num in nums if(num ** 2)%2 == 0]
-'''
+{% endhighlight %}
 
 위의 두 구문은 같은 의미이다.
 
