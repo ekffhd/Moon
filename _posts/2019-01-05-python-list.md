@@ -48,6 +48,8 @@ double_prizes2 = [prize*2 for prize in prizes]
 
 위의 두 구문은 같은 의미이다.  
   
+---  
+  
   
   
 {% highlight python %}
